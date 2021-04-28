@@ -1,0 +1,247 @@
+[29-Nov-2020 09:46:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 09:46:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'CleanP'@'localhost' (using password: YES) in /home/tazakoom/public_html/config.php on line 72
+[29-Nov-2020 09:46:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/index.php on line 7
+[29-Nov-2020 09:46:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tazakoom/public_html/index.php on line 25
+[29-Nov-2020 09:52:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 09:52:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tazakoom_Kushtar'@'localhost' (using password: YES) in /home/tazakoom/public_html/config.php on line 72
+[29-Nov-2020 09:52:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/index.php on line 7
+[29-Nov-2020 09:52:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tazakoom/public_html/index.php on line 25
+[29-Nov-2020 09:54:36 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 09:54:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tazakoom_Kushtar'@'localhost' (using password: YES) in /home/tazakoom/public_html/config.php on line 72
+[29-Nov-2020 09:54:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tazakoom/public_html/index.php on line 25
+[29-Nov-2020 09:54:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 09:54:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tazakoom_Kushtar'@'localhost' (using password: YES) in /home/tazakoom/public_html/config.php on line 72
+[29-Nov-2020 09:54:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tazakoom/public_html/index.php on line 25
+[29-Nov-2020 09:54:45 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 09:54:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tazakoom_Kushtar'@'localhost' (using password: YES) in /home/tazakoom/public_html/config.php on line 72
+[29-Nov-2020 09:54:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tazakoom/public_html/index.php on line 25
+[29-Nov-2020 09:57:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 09:57:21 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 09:57:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 09:57:36 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 09:57:38 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 09:57:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 09:57:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 09:57:52 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 09:57:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tazakoom/public_html/createEvent.php on line 3
+[29-Nov-2020 09:57:54 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 09:58:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tazakoom/public_html/createEvent.php on line 3
+[29-Nov-2020 09:58:59 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 09:59:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tazakoom/public_html/createEvent.php on line 3
+[29-Nov-2020 09:59:22 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:00:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:01:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:01:44 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:01:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 16:01:50 Asia/Almaty] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/PointPlace.php on line 5
+[29-Nov-2020 16:01:50 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 86
+[29-Nov-2020 16:01:50 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 121
+[29-Nov-2020 10:02:12 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 16:02:12 Asia/Almaty] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/PointPlace.php on line 5
+[29-Nov-2020 16:02:12 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 86
+[29-Nov-2020 16:02:12 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 121
+[29-Nov-2020 10:04:58 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:07:51 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:07:54 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:07:58 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:08:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:08:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 16:08:07 Asia/Almaty] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/PointPlace.php on line 5
+[29-Nov-2020 16:08:07 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 86
+[29-Nov-2020 16:08:07 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 119
+[29-Nov-2020 10:08:11 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:08:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:08:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:11:01 UTC] PHP Fatal error:  Non-abstract method pointLocation::__construct() must contain body in /home/tazakoom/public_html/config.php on line 313
+[29-Nov-2020 16:11:34 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 86
+[29-Nov-2020 16:11:34 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 119
+[29-Nov-2020 10:12:08 UTC] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/userOffice.php on line 19
+[29-Nov-2020 10:12:08 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/tazakoom/public_html/userOffice.php on line 20
+[29-Nov-2020 10:12:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tazakoom/public_html/pswd_ch.php on line 33
+[29-Nov-2020 10:13:52 UTC] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/userOffice.php on line 19
+[29-Nov-2020 10:13:52 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/tazakoom/public_html/userOffice.php on line 20
+[29-Nov-2020 10:14:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tazakoom/public_html/pswd_ch.php on line 33
+[29-Nov-2020 10:15:03 UTC] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/userOffice.php on line 19
+[29-Nov-2020 10:15:03 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/tazakoom/public_html/userOffice.php on line 20
+[29-Nov-2020 10:15:24 UTC] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/userOffice.php on line 19
+[29-Nov-2020 10:15:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/tazakoom/public_html/userOffice.php on line 20
+[29-Nov-2020 10:15:43 UTC] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/userOffice.php on line 19
+[29-Nov-2020 10:15:43 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/tazakoom/public_html/userOffice.php on line 20
+[29-Nov-2020 10:16:03 UTC] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/userOffice.php on line 19
+[29-Nov-2020 10:16:03 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/tazakoom/public_html/userOffice.php on line 20
+[29-Nov-2020 10:16:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tazakoom/public_html/username_ch.php on line 31
+[29-Nov-2020 10:16:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tazakoom/public_html/username_ch.php on line 33
+[29-Nov-2020 10:16:22 UTC] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/userOffice.php on line 19
+[29-Nov-2020 10:16:22 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/tazakoom/public_html/userOffice.php on line 20
+[29-Nov-2020 10:16:24 UTC] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/userOffice.php on line 19
+[29-Nov-2020 10:16:24 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/tazakoom/public_html/userOffice.php on line 20
+[29-Nov-2020 10:16:35 UTC] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/userOffice.php on line 19
+[29-Nov-2020 10:16:35 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/tazakoom/public_html/userOffice.php on line 20
+[29-Nov-2020 10:16:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tazakoom/public_html/userOffice.php on line 36
+[29-Nov-2020 10:16:40 UTC] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/userOffice.php on line 19
+[29-Nov-2020 10:16:40 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/tazakoom/public_html/userOffice.php on line 20
+[29-Nov-2020 16:19:07 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 86
+[29-Nov-2020 16:19:07 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 120
+[29-Nov-2020 10:26:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:26:18 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 16:26:18 Asia/Almaty] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/PointPlace.php on line 5
+[29-Nov-2020 10:26:21 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:26:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 16:26:27 Asia/Almaty] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/PointPlace.php on line 5
+[29-Nov-2020 10:26:29 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:26:35 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 16:26:35 Asia/Almaty] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/PointPlace.php on line 5
+[29-Nov-2020 10:26:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:40:22 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 16:40:22 Asia/Almaty] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/PointPlace.php on line 5
+[29-Nov-2020 10:40:25 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:41:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:41:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 16:41:53 Asia/Almaty] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/PointPlace.php on line 5
+[29-Nov-2020 10:42:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:42:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 16:42:57 Asia/Almaty] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/PointPlace.php on line 5
+[29-Nov-2020 10:43:00 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:43:06 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 16:43:06 Asia/Almaty] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/PointPlace.php on line 5
+[29-Nov-2020 10:43:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:47:26 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 16:47:26 Asia/Almaty] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/PointPlace.php on line 5
+[29-Nov-2020 10:49:30 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 16:49:30 Asia/Almaty] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/PointPlace.php on line 5
+[29-Nov-2020 10:54:43 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:56:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 16:56:02 Asia/Almaty] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/PointPlace.php on line 5
+[29-Nov-2020 10:56:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:56:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 16:56:27 Asia/Almaty] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/PointPlace.php on line 5
+[29-Nov-2020 10:57:26 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:57:32 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:57:42 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:57:43 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 10:57:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 16:57:55 Asia/Almaty] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/PointPlace.php on line 5
+[29-Nov-2020 10:58:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 11:00:39 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 11:00:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 17:00:46 Asia/Almaty] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:310) in /home/tazakoom/public_html/PointPlace.php on line 5
+[29-Nov-2020 11:00:54 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; pointLocation has a deprecated constructor in /home/tazakoom/public_html/config.php on line 310
+[29-Nov-2020 18:05:54 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 86
+[29-Nov-2020 18:05:54 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 120
+[29-Nov-2020 18:07:31 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 86
+[29-Nov-2020 18:07:31 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 120
+[29-Nov-2020 18:11:07 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 86
+[29-Nov-2020 18:11:07 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 120
+[29-Nov-2020 18:15:35 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 86
+[29-Nov-2020 18:15:35 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 122
+[29-Nov-2020 18:16:19 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 86
+[29-Nov-2020 18:16:19 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 122
+[29-Nov-2020 18:18:59 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 86
+[29-Nov-2020 18:18:59 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 122
+[29-Nov-2020 18:22:18 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 86
+[29-Nov-2020 18:22:18 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 122
+[29-Nov-2020 18:22:27 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 86
+[29-Nov-2020 18:22:27 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 122
+[29-Nov-2020 18:23:27 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 86
+[29-Nov-2020 18:23:27 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 122
+[29-Nov-2020 18:46:32 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 140
+[29-Nov-2020 18:46:46 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 140
+[29-Nov-2020 18:54:00 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 18:56:44 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 18:56:53 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 18:57:25 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 18:59:27 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 19:03:30 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 19:03:42 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 19:04:05 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 19:08:34 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 103
+[29-Nov-2020 19:08:34 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 19:09:23 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 19:10:13 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 19:16:53 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 19:22:22 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:53) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 13:24:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function toFile() in /home/tazakoom/public_html/pointManip.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/tazakoom/public_html/pointManip.php on line 27
+[29-Nov-2020 13:26:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function toFile() in /home/tazakoom/public_html/pointManip.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/tazakoom/public_html/pointManip.php on line 24
+[29-Nov-2020 13:27:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function toFile() in /home/tazakoom/public_html/pointManip.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tazakoom/public_html/pointManip.php on line 6
+[29-Nov-2020 13:29:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function toFile() in /home/tazakoom/public_html/pointManip.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tazakoom/public_html/pointManip.php on line 6
+[29-Nov-2020 13:33:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function toFile() in /home/tazakoom/public_html/pointManip.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tazakoom/public_html/pointManip.php on line 6
+[29-Nov-2020 19:48:02 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 19:50:56 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 103
+[29-Nov-2020 19:50:56 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 19:57:35 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 19:59:00 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 20:00:36 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 20:06:12 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 20:10:06 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 14:18:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 60
+[29-Nov-2020 14:19:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 60
+[29-Nov-2020 14:22:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 61
+[29-Nov-2020 18:11:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 61
+[29-Nov-2020 18:11:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 61
+[29-Nov-2020 18:11:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 61
+[29-Nov-2020 18:11:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 61
+[29-Nov-2020 18:11:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 61
+[29-Nov-2020 18:11:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 61
+[29-Nov-2020 18:11:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 61
+[29-Nov-2020 18:12:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/tazakoom/public_html/AboutUs.php on line 161
+[29-Nov-2020 18:15:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 61
+[29-Nov-2020 18:15:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 61
+[29-Nov-2020 18:15:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 61
+[29-Nov-2020 18:24:08 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/tazakoom/public_html/Events.php on line 98
+[29-Nov-2020 18:33:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 61
+[30-Nov-2020 00:36:54 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 103
+[30-Nov-2020 00:36:54 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 18:37:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tazakoom/public_html/username_ch.php on line 31
+[29-Nov-2020 18:37:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tazakoom/public_html/username_ch.php on line 33
+[29-Nov-2020 18:39:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tazakoom/public_html/username_ch.php on line 31
+[29-Nov-2020 18:39:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/tazakoom/public_html/username_ch.php on line 33
+[29-Nov-2020 18:46:28 UTC] PHP Notice:  Undefined variable: row in /home/tazakoom/public_html/username_ch.php on line 16
+[29-Nov-2020 18:46:34 UTC] PHP Notice:  Undefined variable: row in /home/tazakoom/public_html/username_ch.php on line 16
+[29-Nov-2020 18:49:03 UTC] PHP Notice:  Undefined index: ip in /home/tazakoom/public_html/username_ch.php on line 41
+[29-Nov-2020 18:53:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tazakoom/public_html/region_ch.php on line 4
+[29-Nov-2020 18:54:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tazakoom/public_html/region_ch.php on line 4
+[29-Nov-2020 18:55:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tazakoom/public_html/region_ch.php on line 3
+[29-Nov-2020 18:58:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tazakoom/public_html/region_ch.php on line 3
+[29-Nov-2020 18:59:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tazakoom/public_html/region_ch.php on line 3
+[29-Nov-2020 19:00:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tazakoom/public_html/region_ch.php on line 4
+[29-Nov-2020 19:00:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tazakoom/public_html/region_ch.php on line 8
+[29-Nov-2020 19:02:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tazakoom/public_html/region_ch.php on line 7
+[29-Nov-2020 19:02:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tazakoom/public_html/region_ch.php on line 17
+[29-Nov-2020 19:04:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tazakoom/public_html/region_ch.php on line 7
+[29-Nov-2020 19:04:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tazakoom/public_html/region_ch.php on line 17
+[29-Nov-2020 19:08:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tazakoom/public_html/userOffice.php on line 36
+[30-Nov-2020 01:10:49 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[29-Nov-2020 19:26:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/tazakoom/public_html/AboutUs.php on line 226
+[30-Nov-2020 06:35:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 61
+[30-Nov-2020 06:35:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 61
+[30-Nov-2020 06:35:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tazakoom/public_html/config.php:83) in /home/tazakoom/public_html/pointManip.php on line 61
+[30-Nov-2020 06:36:47 UTC] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/userOffice.php on line 19
+[30-Nov-2020 06:36:47 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, bool given in /home/tazakoom/public_html/userOffice.php on line 20
+[30-Nov-2020 07:19:11 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING) in /home/tazakoom/public_html/login.php on line 91
+[30-Nov-2020 07:21:28 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING) in /home/tazakoom/public_html/login.php on line 91
+[30-Nov-2020 14:38:57 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[30-Nov-2020 14:39:13 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[30-Nov-2020 14:47:58 Asia/Almaty] PHP Warning:  date_add() expects parameter 1 to be DateTime, bool given in /home/tazakoom/public_html/PointPlace.php on line 103
+[30-Nov-2020 14:47:58 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[30-Nov-2020 14:48:59 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[30-Nov-2020 09:27:21 UTC] PHP Parse error:  syntax error, unexpected 'background' (T_STRING) in /home/tazakoom/public_html/userOffice.php on line 85
+[30-Nov-2020 18:03:34 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[30-Nov-2020 18:08:07 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[02-Dec-2020 12:14:25 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[02-Dec-2020 18:59:06 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
+[04-Dec-2020 23:16:03 Asia/Almaty] PHP Fatal error:  Cannot redeclare filterInput() (previously declared in /home/tazakoom/public_html/config.php:54) in /home/tazakoom/public_html/PointPlace.php on line 141
